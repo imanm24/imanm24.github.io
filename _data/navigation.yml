@@ -9,6 +9,9 @@ main:
   - title: "Education"
     url: /education/ 
   
+  - title: "Work Experience"
+    url: /work_experience/ 
+
   #- title: "CV"
   #  url: /cv/
 
