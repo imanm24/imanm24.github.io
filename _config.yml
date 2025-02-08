@@ -22,8 +22,8 @@ repository               : "imanm24/imanm24.github.io./"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             :  &name #"Your Sidebar Name"
+  avatar           : "iman.jpg" #"profile.png"
+  name             : # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist - PhD in Physics"
   location         : "Stockholm, Sweden"
