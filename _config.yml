@@ -22,7 +22,7 @@ repository               : "imanm24/imanm24.github.io./"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "iman.jpg" #"profile.png"
+  avatar           : "iman_square.jpg" #"profile.png"
   name             : # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist - PhD in Physics"
