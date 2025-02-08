@@ -23,4 +23,4 @@ redirect_from:
 * Research Fellow, Uppsala University, Uppsala-Sweden (09/2020 - 08/2022)
   * Performed extensive numerical analysis using HPC cluster
   * Created pipelines to analyze large data sets
-  * Published 1 ﬁrst author [paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.125155) 
+  * Published a ﬁrst author [paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.125155) 
