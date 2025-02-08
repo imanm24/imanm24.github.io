@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-{% include _pages/ %}
+{% include base_path %}
 
 PostDoc
 =====
