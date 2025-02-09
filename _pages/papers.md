@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Papers"
@@ -6,10 +5,9 @@ permalink: /papers/
 author_profile: true
 
 ---
-
 {% include base_path %}
 
-You could downloand each paper either from [arXiv](https://arxiv.org/) or from the journal it was published by. 
+
 
 * Superconducting pairing from repulsive interactions of fermions in a flat-band system [arXiv](https://arxiv.org/abs/2111.03321), [Phys. Rev. B (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.125155)
 * Phase diagram of the Z3-Fock parafermion chain with pair hopping [arXiv](https://arxiv.org/abs/2003.07812), [SciPost Phys. Core (2020)](https://scipost.org/10.21468/SciPostPhysCore.3.2.011) 
