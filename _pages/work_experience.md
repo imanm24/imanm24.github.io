@@ -10,13 +10,18 @@ redirect_from:
 {% include base_path %}
 
 * Data Scientist, [Swedbank](https://www.swedbank.com/), Stockholm-Sweden (04/2023 - 04/2025)
-  * Building Neural Network and Bayesian models for early defaults.
-  * Built a regression early default model.  
-  * Working on affordability parameters and the competitive environment.
-  * Built statistical and rule-based models for fraud detection.
+  * Built **Credit Risk Models** on Azure-Databricks resulted in **15%** increase in Gini coeﬃcient:
+    *  Used **Neural Networks (Tensorﬂow)** to build time-dependent models
+    *  Captured individual risk uncertainty using **Bayesian methods (PyMC)**
+    *  Produced industry-standard Logistic Regression model (Scikit-learn)
+  * Suggested stressed interest rate for the aﬀordability calculator
+  * Built statistical and rule-based models for **Fraud Detection** in 2 products:
+    *  Mortgage applications
+    *  Cashier transactions
+  * Established a model to set individual product limit
 
 * Data Scientist, [Twigeo](https://twigeo.com/), Stockholm-Sweden (09/2022 - 03/2023)
-  * Performed Marketing Mix Modeling (MMM) utilizing Bayesian methods (NumPyro) and the Robyn package by Meta for 3 clients.
+  * Performed Marketing **Mix Modeling (MMM)** utilizing **Bayesian methods** (NumPyro) and the Robyn package by Meta for 3 clients.
   * Calculated cost per acquisition and saturation curves for marketing channels
   * Designed Geo-Experiments using Synthetic Control Methods.
 
