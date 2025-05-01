@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Data Scientist, [Swedbank](https://www.swedbank.com/), Stockholm-Sweden (04/2023 - Present)
+* Data Scientist, [Swedbank](https://www.swedbank.com/), Stockholm-Sweden (04/2023 - 04/2025)
   * Building Neural Network and Bayesian models for early defaults.
   * Built a regression early default model.  
   * Working on affordability parameters and the competitive environment.
