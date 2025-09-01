@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Iman Mahyaeh and I am a **Data Scientist**.  
+My name is Iman Mahyaeh and I am a **Data Scientist**. Currently I am working at [ASSA ABLOY](https://www.assaabloy.com/group/sv).
 
 I have a **PhD in Theoretical Physics**, a highly quantitative field, from [**Stockholm University**](https://www.su.se/department-of-physics/). As a result I am equipped with various analytical, computational and programming skills and have a solid background in Data Science, Physics, Mathematics and Statistics in addition to my programming skills.
 
