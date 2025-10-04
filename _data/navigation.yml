@@ -14,15 +14,15 @@ main:
 
   - title: "Papers"
     url: /papers/ 
+  
+  - title: "Blog Posts"
+    url: /year-archive/
 
   # - title: "Publications"
   #   url: /publications/
 
   #- title: "CV"
   #  url: /cv/
-
-  - title: "Blog Posts"
-   url: /year-archive/
 
   # - title: "Talks"
   #   url: /talks/    
