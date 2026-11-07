@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* Data Scientist, [ASSA ABLOY](https://www.assaabloy.com/group/sv), Stockholm-Sweden (06/2025 - )
+* Senior Data Scientist, [Record UK/ASSA ABLOY](https://www.assaabloy.com/group/sv), London-UK 
   * Optimizing door dynamics for better customer experience and less energy consumption
     
 * Data Scientist, [Swedbank](https://www.swedbank.com/), Stockholm-Sweden (04/2023 - 04/2025)
